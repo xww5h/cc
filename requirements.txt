@@ -1,0 +1,2 @@
+gradio
+llama-cpp-python
